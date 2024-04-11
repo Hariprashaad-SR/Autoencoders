@@ -28,4 +28,4 @@ Three are several applications of Autoencoders some of the important ones are:
 
 ## Autoencoder on MNIST dataset
 
-![App Screenshot](https://i.ibb.co/XydF76H/Screenshots-2024-04-11-at-11-31-01-PM.png)
+![](https://i.ibb.co/XydF76H/Screenshots-2024-04-11-at-11-31-01-PM.png)
